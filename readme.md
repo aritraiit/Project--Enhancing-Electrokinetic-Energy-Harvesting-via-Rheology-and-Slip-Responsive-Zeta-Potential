@@ -57,6 +57,22 @@ Representative examples include:
 
 These solutions therefore represent promising candidates for experimental validation, albeit with some inevitable inaccuracies arising from the simplifying assumptions of the present theory.
 
+## 🤝 Acknowledgements
+The authors would like to express their gratitude to the following individuals and institutions for their invaluable contributions to this work:
+
+- **Prof. Antarip Poddar**: For his fruitful discussions, constant support, and technical guidance throughout the development of this theoretical framework.
+
+- **Prof. Sandipan Kumar Das (IIT(ISM) Dhanbad)**: For introducing the perturbation methodology, with particular reference to the foundational works of Prof. Milton Van Dyke (Stanford University).
+
+- **TIFR (Tata Institute of Fundamental Research)**: For providing access to essential literature, specifically Introduction to Perturbation Techniques by Ali Hasan Nayfeh, which was instrumental in our mathematical derivation, in 2024 while I was a SN Bhatt Fellow.
+
+- **Balbir Prasad (CSE Dept., IIT Gandhinagar)**: For his technical expertise in developing this GitHub repository and assisting with the frontend scripting for data visualization.
+
+- **Lt. Cdr. K C Mithun (currently pursing MTech from IIT Bombay)**: For his meticulous assistance with manuscript annotations and providing with licensed pdf reader for proofreading during the drafting process.
+
+## 💰 Funding Statement
+This work gratefully acknowledges the financial support provided by the Department of Science and Technology (DST), Government of India, through the project ANRF/ARG/2025/000835/ENS.
+
 ---
 ## 📂 Repository Structure
 
