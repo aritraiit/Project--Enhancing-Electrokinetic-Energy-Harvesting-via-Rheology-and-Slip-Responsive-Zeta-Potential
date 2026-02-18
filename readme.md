@@ -60,11 +60,11 @@ These solutions therefore represent promising candidates for experimental valida
 ## 🤝 Acknowledgements
 The authors would like to express their gratitude to the following individuals and institutions for their invaluable contributions to this work:
 
-- **Prof. Antarip Poddar**: For his fruitful discussions, constant support, and technical guidance throughout the development of this theoretical framework.
+- **Prof. Antarip Poddar(IIT(ISM) Dhanbad)**: For his fruitful discussions, constant support, and technical guidance throughout the development of this theoretical framework.
 
-- **Prof. Sandipan Kumar Das (IIT(ISM) Dhanbad)**: For introducing the perturbation methodology, with particular reference to the foundational works of Prof. Milton Van Dyke (Stanford University).
+- **Prof. Sandipan Kumar Das (IIT(ISM) Dhanbad)**: For introducing the perturbation methodology, with particular reference to the foundational works of Prof. Milton Van Dyke (Dept. of aeronautics an astronautics, Stanford University).
 
-- **TIFR (Tata Institute of Fundamental Research)**: For providing access to essential literature, specifically Introduction to Perturbation Techniques by Ali Hasan Nayfeh, which was instrumental in our mathematical derivation, in 2024 while I was a SN Bhatt Fellow.
+- **TIFR (Tata Institute of Fundamental Research)**: For providing access to essential literature, specifically Introduction to Perturbation Techniques by Ali Hasan Nayfeh, which was instrumental in our mathematical derivation, in 2024 while I was a SN Bhatt Fellow.<a href="https://www.icts.res.in/academic/summer-research-program/2024">Link</a></em>
 
 - **Balbir Prasad (CSE Dept., IIT Gandhinagar)**: For his technical expertise in developing this GitHub repository and assisting with the frontend scripting for data visualization.
 
